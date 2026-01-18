@@ -55,9 +55,16 @@ http://localhost/Devine-Derm/
 ```
 
 ## 📸 Screenshots
+(Home)
+<img width="1557" height="652" alt="Screenshot 2026-01-18 220230" src="https://github.com/user-attachments/assets/0c93289e-644a-4784-9d7c-690a0fc1f1f2" />
 
-![Homepage](screenshots/homepage.png)
-![Products](screenshots/products.png)
+(Cart)
+<img width="1592" height="777" alt="Screenshot 2026-01-18 220256" src="https://github.com/user-attachments/assets/6ba43690-4f86-42ab-a8ef-3303c9030345" />
+
+
+
+
+
 
 ## 🚀 Usage
 
@@ -85,18 +92,15 @@ Devine-Derm/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub: [DinushaWalakuluArachchi](https://github.com/DinushaWalakuluArachchi)
 
 ## 📞 Contact
 
-For any queries, please reach out at your.email@example.com
+For any queries, please reach out at your dinumadhu22@gmail.com
 
 ---
 ⭐ Star this repo if you find it helpful!
